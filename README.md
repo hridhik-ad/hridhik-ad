@@ -1,18 +1,54 @@
-# 💫 About Me:
-# Hey, I'm Hridhik 👋<br><br>**Systems Builder & Explorer.** I thrive at the intersection of hardware and high-performance software—building systems that fly, scale, and solve real-world bottlenecks.<br><br>---<br><br>### 🚁 Featured Project — [ADDC Aroha](https://github.com/hridhik-ad/addc_aroha)<br>**Autonomous Precision-Landing System** built for the Autonomous Drone Delivery Challenge (ADDC).<br><br>> This project was about closing the loop between computer vision and flight dynamics. I engineered a pipeline that takes a drone from a GPS mission to a sub-meter precision landing using real-time AI inference at the edge.<br><br>| Layer | The Stack |<br>| :--- | :--- |<br>| **Flight Brain** | Cube Orange (ArduPilot / PX4) |<br>| **Edge Compute** | Raspberry Pi 5 + **Hailo-8L (13 TOPS)** |<br>| **Vision Core** | Custom YOLOv8 compiled to `.hef` |<br>| **Communication** | MAVLink UDP · MAVSDK · ZMQ |<br>| **Control Logic** | 20 Hz Offboard P-controller (Normalised X/Y Error) |<br><br>**The Workflow:** Moved from **x86 SITL** (Simulation) to **RPi5 HITL** (Hardware-in-the-loop) with NPU acceleration, finally validating the stack in **real-world flight**.<br><br>---<br><br>### ⚽ Featured Project — [Turfez](#)<br>**Full-stack Turf Booking Ecosystem.** Built a streamlined platform for sports enthusiasts to book local turfs. This was my deep dive into building **scalable systems** that handle real users and real-time availability.<br><br>* **Backend:** High-concurrency API built with **FastAPI**.<br>* **Database:** Flexible data modeling using **MongoDB**.<br>* **Frontend:** Cross-platform mobile experience via **Flutter**.<br><br>---<br><br>### 🛠 Tech Stack & Curiosity<br><br>I don’t just use tools; I learn how they work from the ground up—from **Micrograd** to building **Raw DNS Forgers**.<br><br>* **Languages & Frameworks:** Python (FastAPI), React, Flutter, MATLAB.<br>* **Robotics & Edge AI:** PX4 / ArduPilot, MAVSDK, YOLOv8, Hailo-8L NPU.<br>* **Infra & Systems:** Linux (Raspberry Pi/Server), MongoDB, ZMQ, MAVLink.<br>* **Currently Exploring:** MLOps, System Design patterns, and AI-automated services.<br><br>---<br><br>### 📌 Philosophy<br><br>I'm a **first-principles learner**. Whether it's optimizing a 13 TOPS AI accelerator or architecting a backend, I’m driven by a relentless curiosity for how complex systems stay upright and scale in production environments.<br><br>---<br><br>### 📫 Let's Connect<br><br>* **GitHub:** [@hridhik-ad](https://github.com/hridhik-ad)<br><br>*Building the future, one control loop at a time.*
+# Hey, I'm Hridhik 👋
 
+**Systems Builder & Explorer.** I thrive at the intersection of hardware and high-performance software—building systems that fly, scale, and solve real-world bottlenecks.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hridhikad0007/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hridhikad004@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hridhik-ad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hridhik-ad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hridhik-ad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚁 Featured Project — [ADDC Aroha](https://github.com/hridhik-ad/addc_aroha)
+**Autonomous Precision-Landing System** built for the Autonomous Drone Delivery Challenge (ADDC).
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hridhik-ad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> This project was about closing the loop between computer vision and flight dynamics. I engineered a pipeline that takes a drone from a GPS mission to a sub-meter precision landing using real-time AI inference at the edge.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Layer | The Stack |
+| :--- | :--- |
+| **Flight Brain** | Cube Orange (ArduPilot / PX4) |
+| **Edge Compute** | Raspberry Pi 5 + **Hailo-8L (13 TOPS)** |
+| **Vision Core** | Custom YOLOv8 compiled to `.hef` |
+| **Communication** | MAVLink UDP · MAVSDK · ZMQ |
+| **Control Logic** | 20 Hz Offboard P-controller (Normalised X/Y Error) |
+
+**The Workflow:** Moved from **x86 SITL** (Simulation) to **RPi5 HITL** (Hardware-in-the-loop) with NPU acceleration, finally validating the stack in **real-world flight**.
+
+---
+
+### ⚽ Featured Project — [Turfez](#)
+**Full-stack Turf Booking Ecosystem.** Built a streamlined platform for sports enthusiasts to book local turfs. This was my deep dive into building **scalable systems** that handle real users and real-time availability.
+
+* **Backend:** High-concurrency API built with **FastAPI**.
+* **Database:** Flexible data modeling using **MongoDB**.
+* **Frontend:** Cross-platform mobile experience via **Flutter**.
+
+---
+
+### 🛠 Tech Stack & Curiosity
+
+I don’t just use tools; I learn how they work from the ground up—from **Micrograd** to building **Raw DNS Forgers**.
+
+* **Languages & Frameworks:** Python (FastAPI), React, Flutter, MATLAB.
+* **Robotics & Edge AI:** PX4 / ArduPilot, MAVSDK, YOLOv8, Hailo-8L NPU.
+* **Infra & Systems:** Linux (Raspberry Pi/Server), MongoDB, ZMQ, MAVLink.
+* **Currently Exploring:** MLOps, System Design patterns, and AI-automated services.
+
+---
+
+### 📌 Philosophy
+
+I'm a **first-principles learner**. Whether it's optimizing a 13 TOPS AI accelerator or architecting a backend, I’m driven by a relentless curiosity for how complex systems stay upright and scale in production environments.
+
+---
+
+### 📫 Let's Connect
+
+* **GitHub:** [@hridhik-ad](https://github.com/hridhik-ad)
+
+*Building the future, one control loop at a time.*
